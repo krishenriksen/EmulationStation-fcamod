@@ -127,7 +127,7 @@ const std::map<PlatformId, unsigned short> screenscraper_platformid_map{
 	{ PALMOS, 219 },
 	{ DAPHNEE, 49 },
 	{ SOLARUS, 223 },
-	{ PICO-8, 234 }
+	{ PICO_8, 234 }
 	
 };
 

@@ -117,6 +117,7 @@ namespace PlatformIds
 		{ "palm",					PALMOS },
 		{ "daphne",					DAPHNEE },
 		{ "solarus",				SOLARUS },
+		{ "pico-8",					PICO_8 },
 						
 		{ "ignore",					PLATFORM_IGNORE },
 		{ "invalid",				PLATFORM_COUNT }

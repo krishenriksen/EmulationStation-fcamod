@@ -14,7 +14,7 @@
 #include <go2/display.h>
 #include <go2/input.h>
 #include <go2/audio.h>
-#include <drm/drm_fourcc.h>
+#include <libdrm/drm_fourcc.h>
 
 #include "BrightnessIcon.h"
 #include "WifiIcons.h"
